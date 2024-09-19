@@ -13,7 +13,7 @@ const products = [
     photo: camiseta_nike_hombre,
     description: "Camiseta Nike Trail",
     gender: "Hombre",
-    precio: 29,
+    price: 29.75,
     category: "camisetas",
   },
   {
@@ -21,7 +21,7 @@ const products = [
     photo: pantalones_reebok,
     description: "Pantalon Reebok MVP",
     gender: "Hombre",
-    precio: 25,
+    price: 25.88,
     category: "pantalones",
   },
   {
@@ -29,7 +29,7 @@ const products = [
     photo: calcetines_nike,
     description: "Calcetines Nike everyday",
     gender: "Hombre",
-    precio: 15,
+    price: 15.89,
     category: "calcetines",
   },
   {
@@ -37,7 +37,7 @@ const products = [
     photo: nike_air_zoom_hombre,
     description: "Zapatillas Nike Air Zoom",
     gender: "Hombre",
-    precio: 50.99,
+    price: 50.99,
     category: "zapatillas",
   },
   {
@@ -45,7 +45,7 @@ const products = [
     photo: zapatillas_asics,
     description: "Zapatillas Asic M23",
     gender: "Mujer",
-    precio: 61.99,
+    price: 61.99,
     category: "zapatillas",
   },
   {
@@ -53,7 +53,7 @@ const products = [
     photo: pantalones_asics,
     description: "Pantalon Asics Pro",
     gender: "Mujer",
-    precio: 26.99,
+    price: 26.99,
     category: "pantalones",
   },
   {
@@ -61,7 +61,7 @@ const products = [
     photo: pantalones_adidas_mujer,
     description: "Pantalon Adidas Running",
     gender: "Mujer",
-    precio: 50.99,
+    price: 50.99,
     category: "pantalones",
   },
   {
@@ -69,7 +69,7 @@ const products = [
     photo: fila_clementina,
     description: "Camiseta Fila Verano",
     gender: "Mujer",
-    precio: 27,
+    price: 27,
     category: "camisetas",
   },
 ];

@@ -12,13 +12,7 @@ const Categories = () => {
           <div className="container-fluid">
             <div className="row">
               <div className="col-sm-3 material_deportivo categoria">
-                <a
-                  href="#"
-                  style={{
-                    textDecoration: "none !important",
-                    color: "black !important",
-                  }}
-                >
+                <a href="#" className="text-decoration-none text-dark">
                   <span>
                     <p>Calcetines</p>
                     <div className="iconos_materiales">
@@ -28,13 +22,7 @@ const Categories = () => {
                 </a>
               </div>
               <div className="col-sm-3 material_deportivo categoria">
-                <a
-                  href="#"
-                  style={{
-                    textDecoration: "none !important",
-                    color: "black !important",
-                  }}
-                >
+                <a href="#" className="text-decoration-none text-dark">
                   <span>
                     <p>Camisetas</p>
                     <div className="iconos_materiales">
@@ -54,13 +42,7 @@ const Categories = () => {
                 </a>
               </div>
               <div className="col-sm-3 material_deportivo">
-                <a
-                  href="#"
-                  style={{
-                    textDecoration: "none !important",
-                    color: "black !important",
-                  }}
-                >
+                <a href="#" className="text-decoration-none text-dark">
                   <span>
                     <p>Zapatillas</p>
                     <div className="iconos_materiales">
