@@ -7,7 +7,7 @@ const Categories = () => {
   return (
     <div>
       <>
-        <h2>Categorías</h2>
+        <h2 className="text-center">Categorías</h2>
         <section id="seccion_categorias">
           <div className="container-fluid">
             <div className="row">

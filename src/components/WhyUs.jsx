@@ -40,7 +40,7 @@ const WhyUs = () => {
                   <div>
                     <p className="fs-5 m-0">
                       Nuestro proceso de desarrollo es extremadamente eficiente
-                      e inteligente
+                      e inteligente.
                     </p>
                   </div>
                 </div>
@@ -75,7 +75,7 @@ const WhyUs = () => {
                     </svg>
                   </div>
                   <div>
-                    <p className="fs-5 m-0">2 años de garantía</p>
+                    <p className="fs-5 m-0">2 años de garantía.</p>
                   </div>
                 </div>
               </div>
