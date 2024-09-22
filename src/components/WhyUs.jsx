@@ -1,4 +1,4 @@
-import whyUs from "../assets/imagenes/whyUs.jpg"
+import whyUs from "../assets/imagenes/whyUs.jpg";
 const WhyUs = () => {
   return (
     <section className="py-3 py-md-5">
@@ -15,11 +15,14 @@ const WhyUs = () => {
           <div className="col-12 col-lg-6">
             <div className="row justify-content-xl-center">
               <div className="col-12 col-xl-10">
-                <h2 className="mb-3 color-terciario">Why Choose Us?</h2>
+                <h2 className="mb-3 text-left  color-terciario">
+                  ¿Por qué elegirnos?
+                </h2>
                 <p className="lead fs-4 mb-3 mb-xl-5">
-                  With years of experience and deep industry knowledge, we have a
-                  proven track record of success and are constantly pushing
-                  ourselves to stay ahead of the curve.
+                  Con años de experiencia y un profundo conocimiento de la
+                  industria, tenemos un historial comprobado de éxito y estamos
+                  constantemente presionando nosotros mismos para mantenernos a
+                  la vanguardia.
                 </p>
                 <div className="d-flex align-items-center mb-3">
                   <div className="me-3 text-primary">
@@ -36,7 +39,8 @@ const WhyUs = () => {
                   </div>
                   <div>
                     <p className="fs-5 m-0">
-                      Our evolution procedure is super intelligent.
+                      Nuestro proceso de desarrollo es extremadamente eficiente
+                      e inteligente
                     </p>
                   </div>
                 </div>
@@ -54,9 +58,7 @@ const WhyUs = () => {
                     </svg>
                   </div>
                   <div>
-                    <p className="fs-5 m-0">
-                      We deliver services beyond expectations.
-                    </p>
+                    <p className="fs-5 m-0">Entregamos los pedidos en 1 día.</p>
                   </div>
                 </div>
                 <div className="d-flex align-items-center mb-4 mb-xl-5">
@@ -73,9 +75,7 @@ const WhyUs = () => {
                     </svg>
                   </div>
                   <div>
-                    <p className="fs-5 m-0">
-                      Lets hire us to reach your objectives.
-                    </p>
+                    <p className="fs-5 m-0">2 años de garantía</p>
                   </div>
                 </div>
               </div>
@@ -84,8 +84,7 @@ const WhyUs = () => {
         </div>
       </div>
     </section>
+  );
+};
 
-  )
-}
-
-export default WhyUs
+export default WhyUs;

@@ -1,4 +1,3 @@
-
 const ClientsTrustUs = () => {
   return (
     <section className="py-3 py-md-5 py-xl-8">
@@ -6,14 +5,14 @@ const ClientsTrustUs = () => {
         <div className="row justify-content-md-center">
           <div className="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
             <h4 className="fs-6 text-secondary mb-2 text-uppercase text-center primario">
-              Our Clients
+              Nuestros Clientes
             </h4>
             <h2 className="mb-4 display-5 text-center">
-              Trusted by over 786+ clients.
+              +786 clientes confían en nosotros
             </h2>
             <p className="fs-5 text-secondary mb-5 text-center">
-              Our clients are our top priority, and we are committed to providing
-              them with the highest level of service.
+              Nuestros clientes son nuestra principal prioridad y estamos
+              comprometidos a brindarles el más alto nivel de servicio.
             </p>
             <hr className="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle" />
           </div>
@@ -183,8 +182,7 @@ const ClientsTrustUs = () => {
         </div>
       </div>
     </section>
+  );
+};
 
-  )
-}
-
-export default ClientsTrustUs
+export default ClientsTrustUs;
