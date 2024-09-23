@@ -1,5 +1,5 @@
 import portada1 from "../assets/imagenes/portada1.jpg";
-import portada2 from "../assets/imagenes/portada1.jpg";
+import portada2 from "../assets/imagenes/portada2.jpg";
 import portada3 from "../assets/imagenes/portada3.webp";
 const Carousel = () => {
   return (
